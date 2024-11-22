@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]((https://www.instagram.com/soup_in_artech?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==))
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white&link=(https://github.com/soupinsong))]([https://github.com/soupinsong])  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/soup_in_artech?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://github.com/soupinsong)
 
 </div>
