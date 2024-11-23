@@ -6,7 +6,6 @@
 
 </div>  
 
----
 
 ### 🐘 About Me  
 
@@ -15,7 +14,7 @@
 - 💬 Ask me about: creative idea
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-causoupinsong@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:causoupinsong@gmail.com)](mailto:causoupinsong@gmail.com)  
 
----
+
 
 ### 🛠️ Tech Stack  
 
@@ -27,7 +26,7 @@
   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white"/>
 
 </div>  
----
+
 
 ## Interests 👩‍💻
 
@@ -52,7 +51,6 @@
 > This project is an adaptation of the poem by Korean independence activist Park Yeol into a video. Starting from the task of creating stop-motion animation using generative AI, a fantasy element was added by depicting Park Yeol as a Jindo dog. The work focuses on conveying a message through the relationship between Park Yeol and Fumiko, paying special attention to perspective shifts to evoke a sense of joy and liberation.
   - 🛠️ **Tech Stack:** Chat GPT(Making IMG), premiere pro(edit Vedio), photoshop(edit IMG)
 
----
 
 
 ### 📈 GitHub Stats  
@@ -64,7 +62,7 @@
  
 </div>
 
----
+
 
 ### 🤝 Let's Connect  
 
